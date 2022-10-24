@@ -1,7 +1,6 @@
 # yamdb_final
 
 ![example workflow](https://github.com/Enh404/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
-# api_yamdb
 
 ## Описание:
 Проект api_yamdb собирает отзывы (Review) пользователей на произведения (Titles). Произведения делятся на предустановленные категории (Categories), список которых может быть расширен администратором.
